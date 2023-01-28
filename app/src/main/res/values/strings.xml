@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RCS</string>
+    <string name="text_login"><![CDATA[Enter Username & Password Provided By the Admin to Access your Account.]]></string>
+</resources>

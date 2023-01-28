@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_horz_padd">40dp</dimen>
+    <dimen name="mrg_vert">8dp</dimen>
+    <dimen name="mrg_hor_coln">5dp</dimen>
+</resources>
